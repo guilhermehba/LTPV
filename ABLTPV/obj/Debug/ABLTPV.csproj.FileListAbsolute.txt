@@ -1,0 +1,12 @@
+C:\DEV\LTPV\LTPV\ABLTPV\bin\Debug\ABLTPV.exe.config
+C:\DEV\LTPV\LTPV\ABLTPV\bin\Debug\ABLTPV.exe
+C:\DEV\LTPV\LTPV\ABLTPV\bin\Debug\ABLTPV.pdb
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.Properties.Resources.resources
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.csproj.GenerateResource.cache
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.csproj.CoreCompileInputs.cache
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.exe
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.pdb
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.csprojAssemblyReference.cache
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.FrmNovo.resources
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.FrmPrincipal.resources
+C:\DEV\LTPV\LTPV\ABLTPV\obj\Debug\ABLTPV.FrmAbrir.resources
